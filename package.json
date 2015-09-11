@@ -1,0 +1,7 @@
+{
+  "name": "purescript-talk",
+  "dependencies": {
+    "express": "^4.13.3",
+    "xmlhttprequest": "^1.7.0"
+  }
+}
